@@ -18,7 +18,7 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Mon Texte", name: "Mon Texte", widget: "text"}
+      - {label: "Mon Texte", name: "montexte", widget: "text"}
 
   - name: "pages"
     label: "Pages"
