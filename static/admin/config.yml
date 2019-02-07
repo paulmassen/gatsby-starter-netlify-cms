@@ -4,6 +4,9 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
+display_url: https://hungry-bartik-d7c1b2.netlify.com/
+logo_url: https://www.paulmassendari.com/user/themes/paulmassendari/images/logo3.png
 
 collections:
   - name: "blog"
