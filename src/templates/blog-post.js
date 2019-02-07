@@ -12,6 +12,7 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  montexte,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
